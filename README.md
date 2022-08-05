@@ -1,2 +1,3 @@
 # Ruby-On-Rails-Study
-getting start ruby on rails and study
+
+Documentation : [Notion](https://parallel-cornucopia-5d2.notion.site/Ruby-On-Rails-060d070e611747499cb7177aba7fb64c)
